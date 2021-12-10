@@ -1,0 +1,3 @@
+2338642,gabe davidson,sophomore,CS,12345
+98765,tod hampton,senior,Business Admin,15243
+908152,rene sherman,freshman,Comm,54321

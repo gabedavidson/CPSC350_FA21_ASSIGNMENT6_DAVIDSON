@@ -1,0 +1,3 @@
+12345,John Adams,tenured professor,engr,2338642,15424,15243
+15243,Don Julio,professor,com,98765
+54321,Jack Daniels,associate,bus,78263,908152
