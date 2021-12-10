@@ -28,6 +28,9 @@ Sources and references:
 - http://www.cplusplus.com/forum/general/134044/
 - https://www.geeksforgeeks.org/passing-and-returning-objects-in-c/
 - https://stackoverflow.com/questions/4089726/how-do-i-cast-a-parent-class-as-the-child-class
+- https://stackoverflow.com/questions/357307/how-to-call-a-parent-class-function-from-derived-class-function
+- https://stackoverflow.com/questions/29408896/the-protected-and-private-member-variables-in-c-inheritance
+- https://stackoverflow.com/questions/30138023/operator-overloading-in-base-class-and-using-it-in-derived-class
 
 Compilation or runtime errors:
 - None known
