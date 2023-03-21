@@ -45,6 +45,4 @@ make all
 ./assignment6.exe
 
 Comments:
-- I worked on this alone (bad idea)
-- I will take my remaining two late days on this assignment
-- Unfortunately I just couldn't figure out everything I needed to in order to complete this assignment.
+- I worked on this alone (bad idea!)
